@@ -24,7 +24,7 @@ str=('@babel/plugin-proposal-decorators' '@babel/plugin-proposal-duplicate-named
       '@babel/plugin-transform-parameters' '@babel/plugin-transform-shorthand-properties' 
       '@babel/plugin-transform-spread' '@babel/plugin-transform-sticky-regex' 
       '@babel/plugin-transform-template-literals' '@babel/plugin-transform-unicode-escapes' 
-      '@babel/plugin-transform-unicode-regex' '@babel/plugin-transform-property-mutators' 
+      '@babel/plugin-transform-unicode-regex'  
       '@babel/plugin-proposal-throw-expressions' '@babel/plugin-proposal-record-and-tuple' 
       '@babel/plugin-proposal-nullish-coalescing-operator' '@babel/plugin-transform-exponentiation-operator' 
       'babel-plugin-remove-use-strict' 'metro-react-native-babel-preset' )

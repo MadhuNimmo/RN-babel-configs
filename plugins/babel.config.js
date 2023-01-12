@@ -35,7 +35,7 @@ module.exports = function (api) {
       '@babel/plugin-transform-spread', '@babel/plugin-transform-sticky-regex',
       '@babel/plugin-transform-template-literals',
       '@babel/plugin-transform-unicode-escapes', '@babel/plugin-transform-unicode-regex',
-      '@babel/plugin-transform-property-mutators', '@babel/plugin-proposal-throw-expressions',
+      '@babel/plugin-proposal-throw-expressions',
       '@babel/plugin-proposal-record-and-tuple', '@babel/plugin-proposal-nullish-coalescing-operator',
       '@babel/plugin-transform-exponentiation-operator', 'remove-use-strict']
   };
